@@ -1,0 +1,50 @@
+
+Zadanie na kolokwium – Klasa Szkoła (School) w C#
+
+Instrukcja:
+
+Zapoznaj się z poniższymi zagadnieniami.
+Napisz program w języku C#, który wykorzysta podane elementy.
+Zadbaj o poprawne użycie konstruktorów oraz walidację danych wejściowych w właściwościach.
+Przetestuj program na różnych przypadkach.
+Wymagania:
+
+Definicja klasy i enum:
+
+Utwórz klasę School.
+Utwórz enum Grade z wartościami: FirstGrade, SecondGrade, ThirdGrade, FourthGrade, FifthGrade.
+Pola prywatne i właściwości:
+
+Zdefiniuj prywatne pola:
+_studentName (imię ucznia).
+_studentAge (wiek ucznia).
+_studentGrade (klasa, do której uczęszcza uczeń).
+Utwórz właściwości:
+StudentName - właściwość, która nie pozwala na pustą wartość.
+StudentAge - właściwość, która waliduje wiek ucznia (wiek musi wynosić co najmniej 6 lat).
+StudentGrade - właściwość, która przypisuje klasę ucznia tylko do dostępnych wartości w enumie Grade.
+Konstruktory:
+
+Stwórz konstruktor domyślny inicjalizujący domyślne wartości obiektu.
+Dodaj konstruktor z jednym parametrem (studentName).
+Dodaj konstruktor z dwoma parametrami (studentName, studentAge).
+Dodaj konstruktor z trzema parametrami (studentName, studentAge, studentGrade).
+Dodaj konstruktor z czterema parametrami (studentName, studentAge, studentGrade, schoolStartDate) z walidacją daty (data nie może być w przyszłości).
+Dodaj konstruktor kopiujący.
+Metoda ToString():
+
+Nadpisz metodę ToString(), aby zwracała czytelną reprezentację obiektu. Przykład: "Uczeń: Jan Kowalski, wiek: 8 lat, klasa: 2, rozpoczęcie nauki: 2023-09-01".
+Interakcja z użytkownikiem:
+
+Stwórz metodę InputStudentData(), która pozwala użytkownikowi wprowadzić dane ucznia.
+Upewnij się, że metoda obsługuje błędne wejścia:
+Niepoprawny format daty.
+Zły zakres wieku (wiek musi być co najmniej 6 lat).
+Nieprawidłowa klasa (uczeń może być tylko w jednej z klas 1-5).
+Wykorzystaj try-catch do obsługi błędów.
+Program główny (Main):
+
+Utwórz obiekt School za pomocą różnych konstruktorów.
+Wywołaj metody klasy i wyświetl wyniki.
+Sprawdź działanie konstruktora kopiującego.
+Przetestuj obsługę błędnych danych wejściowych (np. zły wiek, zła data, niewłaściwa klasa).
