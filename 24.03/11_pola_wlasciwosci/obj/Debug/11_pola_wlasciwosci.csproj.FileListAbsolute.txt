@@ -1,0 +1,7 @@
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\bin\Debug\11_pola_wlasciwosci.exe.config
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\bin\Debug\11_pola_wlasciwosci.exe
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\bin\Debug\11_pola_wlasciwosci.pdb
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\obj\Debug\11_pola_wlasciwosci.csproj.AssemblyReference.cache
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\obj\Debug\11_pola_wlasciwosci.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\obj\Debug\11_pola_wlasciwosci.exe
+C:\Users\egzamin\Documents\24.03\11_pola_wlasciwosci\obj\Debug\11_pola_wlasciwosci.pdb
