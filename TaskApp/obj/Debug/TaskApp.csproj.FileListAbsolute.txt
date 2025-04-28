@@ -1,0 +1,7 @@
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\bin\Debug\TaskApp.exe.config
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\bin\Debug\TaskApp.exe
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\bin\Debug\TaskApp.pdb
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\obj\Debug\TaskApp.csproj.AssemblyReference.cache
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\obj\Debug\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\obj\Debug\TaskApp.exe
+C:\Users\egzamin\Documents\Tykhomyrova\TaskApp\obj\Debug\TaskApp.pdb
